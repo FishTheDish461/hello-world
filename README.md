@@ -10,6 +10,8 @@ Hopefully i will at somepoint be able to create a product for others to consume.
 <h2>Learn to code journey</h2>
 <main>
   <img src="https://c.wallhere.com/photos/ed/a3/Tier_Harribel_anime_anime_girls_Bleach_artwork_white_background-339996.jpg!d" alt="harribel from bleach">
-  <a href="https:/freecodecamp.org> freecodecamp.org</a>
+  
+  <a href="https:/freecodecamp.org"> freecodecamp.org</a>
+           
   <p> I will be adding to this as I learn to code.</p>
 </main>
