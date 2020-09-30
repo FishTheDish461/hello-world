@@ -13,7 +13,7 @@ Hopefully i will at somepoint be able to create a product for others to consume.
   <img src="https://c.wallhere.com/photos/ed/a3/Tier_Harribel_anime_anime_girls_Bleach_artwork_white_background-339996.jpg!d" alt="harribel from bleach">
   
   <p>
-  learn to code at<a href="https:/freecodecamp.org"> freecodecamp.org</a>
+  Learn to code at<a href="https:/freecodecamp.org"> freecodecamp.org</a>
   </p>
            
   <p> I will be adding to this as I learn to code.</p>
