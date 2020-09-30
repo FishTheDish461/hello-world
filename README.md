@@ -1,2 +1,2 @@
 # hello-world
-learnig to code
+learning to code
